@@ -10,5 +10,6 @@
     "aboutimage":["https://cdn-thumbs.imagevenue.com/e2/a5/21/ME17YK34_b.jpg"],
     "DOB":["15/04/2003"],
     "passion": ["I have passion for problems solving which is why I chose to become a programmer"],
-    "studies":[{"school": "Life Choices Academy","year": "Sept-2023 - March-2024","url":"https://cdn-images.imagevenue.com/77/e4/6e/ME17ZETI_o.png","sub":"Full stack web development","degree":"Certificate"}]
+    "studies":[{"school": "Life Choices Academy","year": "Sept-2023 - March-2024","url":"https://cdn-images.imagevenue.com/77/e4/6e/ME17ZETI_o.png","sub":"Full stack web development","degree":"Certificate"}],
+    "intern":[{"work":"Intern as Web Dev","at": "Life Choices Studio","time":"Sept-2023 - March-2024","url":"https://i.imgur.com/1DvoX61.jpg","res":"Creating software solutions, web apps, and maintaining company websites and digital products."}]
 }
